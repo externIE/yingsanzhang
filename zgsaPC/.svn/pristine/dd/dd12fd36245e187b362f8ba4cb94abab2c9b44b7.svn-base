@@ -1,0 +1,6 @@
+[Test]
+hello=12345678
+[ForbidIP4]
+232=2323
+[ForbidUser]
+1065=我等到花儿也谢了

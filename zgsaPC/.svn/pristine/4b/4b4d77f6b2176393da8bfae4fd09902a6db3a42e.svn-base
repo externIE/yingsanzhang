@@ -1,0 +1,12 @@
+[server]
+IP=127.0.0.1
+#IP=192.168.1.4
+#IP=115.195.176.229
+port=22311
+#1 for hallmpsvr, 3 for roommpsvr, 4 for gamempsvr
+type=4
+
+[listen]
+port=42311
+threadnum=3
+deadtime=300
